@@ -7,6 +7,7 @@ let run = async () => {
     btn.item(i).click()
     
     let list = document.body.getElementsByClassName('style-scope ytd-menu-navigation-item-renderer')
+    
     for (let i = 0; i < list.length; i++) {
       if (list.item(i).textContent === 'Delete') {
         
