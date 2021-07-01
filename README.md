@@ -1,5 +1,5 @@
 # Youtube Automation
-Made by @ifrosta [GitHub](https://github.com/iFrosta) [Website](https://ifrosta.com)
+Made by @ifrosta [GitHub](https://github.com/iFrosta)
 
 ## Instruction:
 1. Open www.youtube.com/feed/history/comment_history - for comments, www.youtube.com/playlist?list=LL - for likes
